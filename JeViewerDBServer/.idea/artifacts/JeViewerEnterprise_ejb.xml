@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" build-on-make="true" name="JeViewerEnterprise-ejb">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeViewerEnterprise-ejb</output-path>
+    <root id="archive" name="JeViewerEnterprise-ejb.jar">
+      <element id="javaee-facet-resources" facet="JeViewerEnterprise-ejb/ejb/EJB" />
+      <element id="module-output" name="JeViewerEnterprise-ejb" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../JeViewerEnterprise/JeViewerEnterprise-ejb/src/conf/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JeViewerEnterpriseRemoteMod" />
+      <element id="javaee-facet-resources" facet="JeViewerEnterpriseRemoteMod/ejb/EJB" />
+    </root>
+  </artifact>
+</component>

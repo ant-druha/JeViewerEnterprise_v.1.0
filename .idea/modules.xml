@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/JeViewerEnterprise-ejb.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/JeViewerEnterprise-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-war/src/JeViewerEnterprise-war.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-war/src/JeViewerEnterprise-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/JeViewerEnterpriseRemoteMod.iml" filepath="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/JeViewerEnterpriseRemoteMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise_v.1.0.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise_v.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" filepath="$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" />
+    </modules>
+  </component>
+</project>
+

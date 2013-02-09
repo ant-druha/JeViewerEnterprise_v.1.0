@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_jeviewerenterpriseremotemod" default="compile.module.jeviewerenterpriseremotemod">
+  <dirname property="module.jeviewerenterpriseremotemod.basedir" file="${ant.file.module_jeviewerenterpriseremotemod}"/>
+  
+  <property name="module.jdk.home.jeviewerenterpriseremotemod" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.jeviewerenterpriseremotemod" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.jeviewerenterpriseremotemod" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.jeviewerenterpriseremotemod" value="${compiler.args}"/>
+  
+  <property name="jeviewerenterpriseremotemod.output.dir" value="${module.jeviewerenterpriseremotemod.basedir}/../../JeViewerDBServer/out/production/JeViewerEnterpriseRemoteMod"/>
+  <property name="jeviewerenterpriseremotemod.testoutput.dir" value="${module.jeviewerenterpriseremotemod.basedir}/../../JeViewerDBServer/out/test/JeViewerEnterpriseRemoteMod"/>
+  
+  <path id="jeviewerenterpriseremotemod.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="jeviewerenterpriseremotemod.module.production.classpath">
+    <path refid="${module.jdk.classpath.jeviewerenterpriseremotemod}"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  <path id="jeviewerenterpriseremotemod.runtime.production.module.classpath">
+    <pathelement location="${jeviewerenterpriseremotemod.output.dir}"/>
+  </path>
+  
+  <path id="jeviewerenterpriseremotemod.module.classpath">
+    <path refid="${module.jdk.classpath.jeviewerenterpriseremotemod}"/>
+    <pathelement location="${jeviewerenterpriseremotemod.output.dir}"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  <path id="jeviewerenterpriseremotemod.runtime.module.classpath">
+    <pathelement location="${jeviewerenterpriseremotemod.testoutput.dir}"/>
+    <pathelement location="${jeviewerenterpriseremotemod.output.dir}"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.jeviewerenterpriseremotemod">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.jeviewerenterpriseremotemod">
+    <patternset refid="excluded.from.module.jeviewerenterpriseremotemod"/>
+  </patternset>
+  
+  <path id="jeviewerenterpriseremotemod.module.sourcepath">
+    <dirset dir="${module.jeviewerenterpriseremotemod.basedir}">
+      <include name="java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.jeviewerenterpriseremotemod" depends="compile.module.jeviewerenterpriseremotemod.production,compile.module.jeviewerenterpriseremotemod.tests" description="Compile module JeViewerEnterpriseRemoteMod"/>
+  
+  <target name="compile.module.jeviewerenterpriseremotemod.production" depends="register.custom.compilers" description="Compile module JeViewerEnterpriseRemoteMod; production classes">
+    <mkdir dir="${jeviewerenterpriseremotemod.output.dir}"/>
+    <javac2 destdir="${jeviewerenterpriseremotemod.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.jeviewerenterpriseremotemod}/javac">
+      <compilerarg line="${compiler.args.jeviewerenterpriseremotemod}"/>
+      <bootclasspath refid="jeviewerenterpriseremotemod.module.bootclasspath"/>
+      <classpath refid="jeviewerenterpriseremotemod.module.production.classpath"/>
+      <src refid="jeviewerenterpriseremotemod.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.jeviewerenterpriseremotemod"/>
+    </javac2>
+    
+    <copy todir="${jeviewerenterpriseremotemod.output.dir}">
+      <fileset dir="${module.jeviewerenterpriseremotemod.basedir}/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.jeviewerenterpriseremotemod.tests" depends="register.custom.compilers,compile.module.jeviewerenterpriseremotemod.production" description="compile module JeViewerEnterpriseRemoteMod; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.jeviewerenterpriseremotemod" description="cleanup module">
+    <delete dir="${jeviewerenterpriseremotemod.output.dir}"/>
+    <delete dir="${jeviewerenterpriseremotemod.testoutput.dir}"/>
+  </target>
+</project>

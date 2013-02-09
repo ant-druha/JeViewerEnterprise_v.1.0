@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_jeviwerclient" default="compile.module.jeviwerclient">
+  <dirname property="module.jeviwerclient.basedir" file="${ant.file.module_jeviwerclient}"/>
+  
+  <property name="module.jdk.home.jeviwerclient" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.jeviwerclient" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.jeviwerclient" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.jeviwerclient" value="${compiler.args}"/>
+  
+  <property name="jeviwerclient.output.dir" value="${module.jeviwerclient.basedir}/../JeViewerDBServer/out/production/JeViwerClient"/>
+  <property name="jeviwerclient.testoutput.dir" value="${module.jeviwerclient.basedir}/../JeViewerDBServer/out/test/JeViwerClient"/>
+  
+  <path id="jeviwerclient.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="jeviwerclient.module.production.classpath">
+    <path refid="${module.jdk.classpath.jeviwerclient}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="jeviwerclient.runtime.production.module.classpath">
+    <pathelement location="${jeviwerclient.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="jeviwerclient.module.classpath">
+    <path refid="${module.jdk.classpath.jeviwerclient}"/>
+    <pathelement location="${jeviwerclient.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="jeviwerclient.runtime.module.classpath">
+    <pathelement location="${jeviwerclient.testoutput.dir}"/>
+    <pathelement location="${jeviwerclient.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.jeviwerclient">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.jeviwerclient">
+    <patternset refid="excluded.from.module.jeviwerclient"/>
+  </patternset>
+  
+  <path id="jeviwerclient.module.sourcepath">
+    <dirset dir="${module.jeviwerclient.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.jeviwerclient" depends="compile.module.jeviwerclient.production,compile.module.jeviwerclient.tests" description="Compile module JeViwerClient"/>
+  
+  <target name="compile.module.jeviwerclient.production" depends="register.custom.compilers" description="Compile module JeViwerClient; production classes">
+    <mkdir dir="${jeviwerclient.output.dir}"/>
+    <javac2 destdir="${jeviwerclient.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.jeviwerclient}/javac">
+      <compilerarg line="${compiler.args.jeviwerclient}"/>
+      <bootclasspath refid="jeviwerclient.module.bootclasspath"/>
+      <classpath refid="jeviwerclient.module.production.classpath"/>
+      <src refid="jeviwerclient.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.jeviwerclient"/>
+    </javac2>
+    
+    <copy todir="${jeviwerclient.output.dir}">
+      <fileset dir="${module.jeviwerclient.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.jeviwerclient.tests" depends="register.custom.compilers,compile.module.jeviwerclient.production" description="compile module JeViwerClient; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.jeviwerclient" description="cleanup module">
+    <delete dir="${jeviwerclient.output.dir}"/>
+    <delete dir="${jeviwerclient.testoutput.dir}"/>
+  </target>
+</project>

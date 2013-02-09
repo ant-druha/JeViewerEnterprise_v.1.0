@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_jeviewerenterprise-war" default="compile.module.jeviewerenterprise-war">
+  <dirname property="module.jeviewerenterprise-war.basedir" file="${ant.file.module_jeviewerenterprise-war}"/>
+  
+  <property name="module.jdk.home.jeviewerenterprise-war" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.jeviewerenterprise-war" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.jeviewerenterprise-war" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.jeviewerenterprise-war" value="${compiler.args}"/>
+  
+  <property name="jeviewerenterprise-war.output.dir" value="${module.jeviewerenterprise-war.basedir}/../../../JeViewerDBServer/out/production/JeViewerEnterprise-war"/>
+  <property name="jeviewerenterprise-war.testoutput.dir" value="${module.jeviewerenterprise-war.basedir}/../../../JeViewerDBServer/out/test/JeViewerEnterprise-war"/>
+  
+  <path id="jeviewerenterprise-war.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="jeviewerenterprise-war.module.production.classpath">
+    <path refid="${module.jdk.classpath.jeviewerenterprise-war}"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-war/build/web/WEB-INF/lib/JeViewerEnterpriseRemoteMod.jar"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-ejb/dist/JeViewerEnterprise-ejb.jar"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  <path id="jeviewerenterprise-war.runtime.production.module.classpath">
+    <pathelement location="${jeviewerenterprise-war.output.dir}"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-war/build/web/WEB-INF/lib/JeViewerEnterpriseRemoteMod.jar"/>
+  </path>
+  
+  <path id="jeviewerenterprise-war.module.classpath">
+    <path refid="${module.jdk.classpath.jeviewerenterprise-war}"/>
+    <pathelement location="${jeviewerenterprise-war.output.dir}"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-war/build/web/WEB-INF/lib/JeViewerEnterpriseRemoteMod.jar"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-ejb/dist/JeViewerEnterprise-ejb.jar"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  <path id="jeviewerenterprise-war.runtime.module.classpath">
+    <pathelement location="${jeviewerenterprise-war.testoutput.dir}"/>
+    <pathelement location="${jeviewerenterprise-war.output.dir}"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-war/build/web/WEB-INF/lib/JeViewerEnterpriseRemoteMod.jar"/>
+    <pathelement location="${basedir}/../JeViewerEnterprise/JeViewerEnterprise-ejb/dist/JeViewerEnterprise-ejb.jar"/>
+    <path refid="library.glassfish_3.1.2.2.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.jeviewerenterprise-war">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.jeviewerenterprise-war">
+    <patternset refid="excluded.from.module.jeviewerenterprise-war"/>
+  </patternset>
+  
+  <path id="jeviewerenterprise-war.module.sourcepath">
+    <dirset dir="${module.jeviewerenterprise-war.basedir}/../../JeViewerEnterprise-war">
+      <include name="src/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.jeviewerenterprise-war" depends="compile.module.jeviewerenterprise-war.production,compile.module.jeviewerenterprise-war.tests" description="Compile module JeViewerEnterprise-war"/>
+  
+  <target name="compile.module.jeviewerenterprise-war.production" depends="register.custom.compilers" description="Compile module JeViewerEnterprise-war; production classes">
+    <mkdir dir="${jeviewerenterprise-war.output.dir}"/>
+    <javac2 destdir="${jeviewerenterprise-war.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.jeviewerenterprise-war}/javac">
+      <compilerarg line="${compiler.args.jeviewerenterprise-war}"/>
+      <bootclasspath refid="jeviewerenterprise-war.module.bootclasspath"/>
+      <classpath refid="jeviewerenterprise-war.module.production.classpath"/>
+      <src refid="jeviewerenterprise-war.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.jeviewerenterprise-war"/>
+    </javac2>
+    
+    <copy todir="${jeviewerenterprise-war.output.dir}">
+      <fileset dir="${module.jeviewerenterprise-war.basedir}/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.jeviewerenterprise-war.tests" depends="register.custom.compilers,compile.module.jeviewerenterprise-war.production" description="compile module JeViewerEnterprise-war; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.jeviewerenterprise-war" description="cleanup module">
+    <delete dir="${jeviewerenterprise-war.output.dir}"/>
+    <delete dir="${jeviewerenterprise-war.testoutput.dir}"/>
+  </target>
+</project>

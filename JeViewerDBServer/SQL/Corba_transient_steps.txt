@@ -1,0 +1,54 @@
+CORBA steps (for transient server):
+
+1. Implement client and server classes ... (pass parameters to args ...)
+2. C:\Java\jdk1.7.0_06\bin\tnameserv.exe -ORBInitialPort 1050 -ORBInitialHost localhost
+3. Enjoy
+
+TODO: 
+1)(done) работа с сокетами на стороне сессии сервера и на стороне клиента. 
+2)(done) если клиентское приложение просто закрывается - никакого эксепшена не происходит, соотв-но сессия в БД не закрывается - надо исправить
+3)(done) закрыть корба объект при шатдауне приложения. - done
+4)(done)если сокет закрылся у клиента - новый не создается (2 раза не получается залогинеться)
+5)(done)если сокет закрылся насильно на стороне приложения - информировать об этом клиента (значит он должен непрерывно читать из сокета -> посылка дежурных пакетов)
+6) при аварийном завершении сервера БД - тоже нужно вызывать логауты для всех клиентов и информировать клиента о завершении сессии (проверять статус CORBA объекта..)
+7) по tcp можно посылать не строки - а классы. (так и сделать, тк если что - проще потом модимодифицировать протоколы..)
+8) разобраться с интерфейсами
+9) реализовать Already Logged in ошбку (force login)
+
+ПРОТОКОЛЫ
+От сервера - клиенту:
+// "LOGIN_RESULT_START|login=<login>|client_id=<client_id>|SUCCESS|LOGIN_RESULT_END"
+// "LOGOUT_RESULT_START|SUCCESS|LOGOUT_RESULT_END"
+
+
+// "HIST_REQ_START|SUCCESS|<null>|client_id=<client_id>|HIST_REQ_END"
+
+select * from jviewer.employees;
+select * from jviewer.employee_history;
+select * from jviewer.sessions
+order by logout_date desc;
+
+-- Created on 21.11.2012 by ANDREY 
+declare 
+  -- Local variables here
+  i integer;
+  p_msg varchar2(30);
+begin
+  -- Test statements here
+  i := jviewer.clientutils.ClientLogout(p_employee_id => 2, p_retMsg => p_msg);
+  dbms_output.put_line('Status: '||p_msg);
+end;
+
+insert into jviewer.employee_history (position, hire_date, employee_id)
+values ('CEO', sysdate, 1);
+
+
+
+замечания:
+1)(done)соединение к базе - держать всего одно. (либо 1 на сессию)
+2) поместить в цикл conn.close(); !! (в отдельном потоке можно контроллировать если вошел в бесконечный цикл)
+3) TRY {} catch - finaly - только для определенного для него try срабатывает. 
+4) очистить код классов
+5) определение удаленного разрыва соединения:
+завести отдельный поток, который бы посылал контрольные пакеты с таймаутом и контролировал состояние соединения. Метод чтения/записи в/из потока делать синхронизированным
+6) вынести ResultSetMetaData md = rs.getMetaData();
