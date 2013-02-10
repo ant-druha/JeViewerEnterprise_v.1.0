@@ -7,20 +7,21 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/web" />
-          <root url="file://$MODULE_DIR$/src/jviewer/web" relative="/" />
+          <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/out/production/JeViewerEnterprise-war" />
+    <output-test url="file://$MODULE_DIR$/out/test/JeViewerEnterprise-war" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="JeViewerEnterpriseRemoteMod" />
+    <orderEntry type="module" module-name="JeViewerEnterpriseRemoteMod" scope="PROVIDED" />
     <orderEntry type="library" name="Java EE 6" level="project" />
   </component>
 </module>

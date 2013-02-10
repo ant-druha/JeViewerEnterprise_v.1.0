@@ -4,5 +4,17 @@
            xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
 		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
            version="2.5">
-
+    <servlet>
+        <servlet-name>Director</servlet-name>
+        <servlet-class>jviewer.web.Director</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Director</servlet-name>
+        <url-pattern>/director</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
 </web-app>

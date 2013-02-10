@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="JeViewerEnterprise-war">
-    <output-path>$PROJECT_DIR$/out/artifacts/JeViewerEnterprise_war</output-path>
+  <artifact type="war" build-on-make="true" name="JeViewerEnterprise-war">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeViewerEnterprise-war</output-path>
     <root id="archive" name="JeViewerEnterprise-war.war">
       <element id="javaee-facet-resources" facet="JeViewerEnterprise-war/web/Web" />
       <element id="directory" name="WEB-INF">
