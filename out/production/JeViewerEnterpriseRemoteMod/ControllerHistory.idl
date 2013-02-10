@@ -1,0 +1,17 @@
+module jviewer {
+	module controller {	
+		module orbHistory {
+			interface History {
+				typedef sequence<string> history;
+				history getHistory(in long clientId);
+				boolean login(in string login, in string password);
+				boolean logout(in long clientId);
+			};
+			interface HistoryExtended: History {
+				typedef sequence<string> ClientInfo;
+				boolean loginExt(in string login, in string password, inout ClientInfo clientInfo, inout string strResult);
+				oneway void shutdown();
+			};
+		};
+	};
+};
