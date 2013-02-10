@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Java EE 6">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libEE/javax.annotation.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.ejb.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.jms.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.persistence.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.resource.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.servlet.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.servlet.jsp.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.servlet.jsp.jstl.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libEE/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libEE/javax.transaction.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

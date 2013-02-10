@@ -6,6 +6,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="JeViewerEnterprise-war" />
+          <element id="module-output" name="JeViewerEnterpriseRemoteMod" />
         </element>
       </element>
       <element id="directory" name="META-INF">
