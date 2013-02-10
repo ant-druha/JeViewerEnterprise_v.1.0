@@ -1,11 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="536275f9-a1f5-4236-b58e-f5f480dd35c4" name="Default" comment="" />
+    <list default="true" id="536275f9-a1f5-4236-b58e-f5f480dd35c4" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\.idea\libraries\lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\artifacts\JeViewerEnterprise_ejb.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\artifacts\JeViewerEnterprise_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\copyright\MyCopyright.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\dataSources.ids" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\dictionaries\Andrey.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\dictionaries\Andrey_Dernov.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\libraries\lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\scala_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\scopes\JeViewerEJB.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\sqldialects.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\templateLanguages.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\validation.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\SQL\ClientLogic.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\SQL\Corba_transient_steps.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\SQL\drop_tables.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\SQL\jviewer.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\.netbeans_update_resources" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\controller\ClientBaseInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\dbserver\JeViewerDBServer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\dbserver\PersistentHistoryServant.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\util\persistence\ClientBroker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\util\persistence\ClientDBBroker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\build\classes\jviewer\util\persistence\JDBCUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\JeViewerDBServer.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\README.TXT" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\JeViewerEnterprise-ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\JeViewerEnterpriseRemoteMod.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\appserv-rt.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\gf-client.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\javaee-api-6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\javaee.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\dist\lib\ojdbc6.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\jeviewerdbserver_ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\jeviewerdbserver_ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\lib\ojdbc6.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\module_jeviewerdbserver.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\artifacts\JeViewerEnterprise-ejb\JeViewerEnterprise-ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\artifacts\JeViewerEnterprise-war\JeViewerEnterprise-war.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\controller\ClientBaseInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\dbserver\JeViewerDBServer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\dbserver\PersistentHistoryServant.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\util\persistence\ClientBroker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\util\persistence\ClientDBBroker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerDBServer\jviewer\util\persistence\JDBCUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\appserver\ClientSession.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\appserver\ServerConnectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\appserver\ServerDataReader.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\ejb\Application.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\ejb\ApplicationLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\objectdomain\Client.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\objectdomain\eClientInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\ClientItemsMap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\Holder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\logging\Logging.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\net\ConnectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\net\SocketDataReaderThread.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-ejb\jviewer\util\utils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterprise-war\jviewer\web\Director.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\ControllerHistory.idl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\History.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtended.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPOA.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPOA.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPackage\historyHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPackage\historyHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\_HistoryExtendedStub.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\_HistoryStub.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\ejb\ApplicationRemote.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViewerEnterpriseRemoteMod\jviewer\util\config\ConfigProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\AbstractLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\DimensionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\GridConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\GridLayoutManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\HorizontalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\LayoutState.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\SupportCode.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\Util.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\com\intellij\uiDesigner\core\VerticalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\controller\ClientFormListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\controller\test.my" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\jeviwerclient\JeViwerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientDesignForm$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientDesignForm.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerDBServer\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientForm.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\.netbeans_update_resources" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\META-INF\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\gfv3ee6.dpf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\appserver\ClientSession.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\appserver\ServerConnectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\appserver\ServerDataReader.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\ejb\Application.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\ejb\ApplicationLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\objectdomain\Client.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\objectdomain\eClientInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\ClientItemsMap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\Holder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\logging\Logging.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\net\ConnectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\net\SocketDataReaderThread.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\build\classes\jviewer\util\utils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\dist\JeViewerEnterprise-ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\JeViewerEnterprise-ejb.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\JeViewerEnterprise.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\META-INF\glassfish-ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\META-INF\sun-cmp-mapping.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\conf\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\conf\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\appserver\ClientSession.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\appserver\ServerConnectionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\appserver\ServerDataReader.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\ejb\Application.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\ejb\ApplicationLocal.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\objectdomain\Client.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\objectdomain\eClientInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\ClientItemsMap.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\Holder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\logging\Logging.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\net\ConnectionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\net\SocketDataReaderThread.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\java\jviewer\util\utils.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-ejb\src\module_jeviewerenterprise-ejb.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\JeViewerEnterpriseRemoteMod.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\classes\.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\classes\.netbeans_update_resources" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\classes\jviewer\web\Director.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\lib\JeViewerEnterpriseRemoteMod.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\gfv3ee6.dpf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\build\web\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\dist\JeViewerEnterprise-war.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\JeViewerEnterprise-war.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\conf\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\java\jviewer\web\Director.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\module_jeviewerenterprise-war.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\web\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\src\web\web\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\test.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterprise-war\web\WEB-INF\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\libraries\Java_EE_6_Java_EE_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.annotation.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.jms.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.persistence.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.resource.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.servlet.jsp.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\lib\javax.transaction.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\ControllerHistory.idl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\History.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtended.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPOA.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPOA.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPackage\historyHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\HistoryPackage\historyHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\_HistoryExtendedStub.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\controller\orbHistory\_HistoryStub.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\ejb\ApplicationRemote.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\out\production\JeViewerEnterpriseRemoteMod\jviewer\util\config\ConfigProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\JeViewerEnterpriseRemoteMod.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\META-INF\glassfish-ejb-jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\META-INF\sun-cmp-mapping.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\conf\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\conf\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\ControllerHistory.idl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\History.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtended.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedOperations.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedPOA.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryExtendedPackage\ClientInfoHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryOperations.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryPOA.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryPackage\historyHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\HistoryPackage\historyHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\_HistoryExtendedStub.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\controller\orbHistory\_HistoryStub.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\ejb\ApplicationRemote.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\java\jviewer\util\config\ConfigProperties.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViewerEnterpriseRemoteMod\src\module_jeviewerenterpriseremotemod.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\libraries\lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\module_jeviwerclient.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\AbstractLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\DimensionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\GridConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\GridLayoutManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\HorizontalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\LayoutState.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\SupportCode.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\Util.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\com\intellij\uiDesigner\core\VerticalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\jviewer\controller\ClientFormListener.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\jviewer\jeviwerclient\JeViwerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientDesignForm$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientDesignForm.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Andrey\IdeaProjects\JeViewerEnterprise_v.1.0\JeViwerClient\out\production\JeViwerClient\jviewer\jeviwerclient\gui\ClientForm.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" afterPath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" afterPath="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-war/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/JeViewerEnterprise-war/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JeViewerEnterprise_v.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360447974829" ignored="false" />
     <file path="$PROJECT_DIR$/JeViewerEnterprise-war/src/web/web/WEB-INF/web.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360448312647" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/IDEA_Projects/axiom_tasks/TestTask/src/axiomsl/testtask/eventqueue/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487493668" ignored="false" />
+    <file path="/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487491381" ignored="false" />
+    <file path="$PROJECT_DIR$/Test-ejb/META-INF/ejb-jar.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360492345586" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +335,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="JeViewerEnterprise_v.1.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="45" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationLocal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/ApplicationLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="17" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationRemote.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="17" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2652106">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -136,7 +441,195 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="JeViwerClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterpriseRemoteMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterpriseRemoteMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterpriseRemoteMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterpriseRemoteMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-ejb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-ejb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-ejb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerDBServer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,19 +643,21 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JeViewerEnterprise-war" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JeViewerEnterprise-war/web" />
+    <property name="project.structure.side.proportion" value="0.17023346" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Glassfish Server.JeViewerToEE">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -175,6 +670,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -254,7 +762,75 @@
       <patterns />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="JeViewerToEE" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="Glassfish 3.1.2.2">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Glassfish Server.JeViewerToEE" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -289,7 +865,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="26" y="13" width="1368" height="824" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298351" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -305,10 +881,11 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961714" sideWeight="0.67016494" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298351" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961714" sideWeight="0.67016494" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -376,15 +953,47 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="45" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/ApplicationLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2652106">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>JeViewerEnterprise-ejb</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.17023346" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -392,11 +1001,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>EJB (JeViewerEnterpriseRemoteMod)|EJB</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.17023346" />
               </list>
             </option>
           </splitter-proportions>
@@ -427,11 +1036,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|JeViewerEnterprise-war</last-edited>
+          <last-edited>JeViewerEnterprise-ejb</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.17023346" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -451,7 +1061,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>Java EE 6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

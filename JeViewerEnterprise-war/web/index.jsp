@@ -1,29 +1,10 @@
-
-<%-- 
-    Document   : index
-    Created on : Nov 12, 2012, 9:45:52 AM
-    Author     : Andrey
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
-
-<!DOCTYPE html>
+<%-- Created by IntelliJ IDEA. --%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Simple Web App</title>
-        
-    </head>
-    <body>
-        <h1>Clinet login form</h1>
-        
-       
-        
-        <b>Response below</b></br>
-        
+  <head>
+    <title></title>
+  </head>
+  <body>
 
-        <jsp:forward page="/src/java/jviewer/web/Director.java" > </jsp:forward>
-
-        
-    </body>
+  </body>
 </html>
