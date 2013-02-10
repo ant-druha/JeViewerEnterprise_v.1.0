@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JeViewerEnterprise-war">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeViewerEnterprise_war</output-path>
+    <root id="archive" name="JeViewerEnterprise-war.war">
+      <element id="javaee-facet-resources" facet="JeViewerEnterprise-war/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JeViewerEnterprise-war" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/JeViewerEnterprise-war/web/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
