@@ -37,6 +37,7 @@ import org.omg.CosNaming.NamingContextExtHelper;
 @Singleton
 public class Application implements ApplicationRemote, ApplicationLocal {
 
+    //region Data
     // Business logic below.
     private ConfigProperties configProperties;
     private static final Logging log = new Logging(Application.class);
@@ -44,6 +45,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     // TODO: find another holder for session therads !
     private Vector<ClientSession> clientSessions = new Vector<>();
     private HistoryExtended history = null;
+    //endregion
 
     private void loadProperties() {
 
