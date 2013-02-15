@@ -4,8 +4,9 @@
  */
 package jviewer.ejb;
 
-import javax.ejb.Local;
 import jviewer.appserver.ClientSession;
+
+import javax.ejb.Local;
 
 /**
  *

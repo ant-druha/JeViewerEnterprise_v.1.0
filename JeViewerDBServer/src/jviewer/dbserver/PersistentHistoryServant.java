@@ -4,7 +4,6 @@
  */
 package jviewer.dbserver;
 
-import java.util.Arrays;
 import jviewer.controller.orbHistory.HistoryExtendedPOA;
 import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
 import jviewer.util.logging.Logging;
@@ -12,6 +11,8 @@ import jviewer.util.persistence.ClientBroker;
 import jviewer.util.persistence.ClientDBBroker;
 import org.omg.CORBA.ORB;
 import org.omg.CORBA.StringHolder;
+
+import java.util.Arrays;
 
 /**
  *

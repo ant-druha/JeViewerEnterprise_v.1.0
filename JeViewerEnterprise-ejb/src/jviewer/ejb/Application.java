@@ -4,19 +4,6 @@
  */
 package jviewer.ejb;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-import java.util.Iterator;
-import java.util.Properties;
-import java.util.Vector;
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
-import javax.ejb.Singleton;
-
 import com.sun.istack.internal.Nullable;
 import jviewer.appserver.ClientSession;
 import jviewer.appserver.ServerConnectionListener;
@@ -28,6 +15,17 @@ import jviewer.util.net.ConnectionListener;
 import org.omg.CORBA.ORB;
 import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
+
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+import javax.ejb.Singleton;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.net.InetAddress;
+import java.util.Iterator;
+import java.util.Properties;
+import java.util.Vector;
 
 /**
  *

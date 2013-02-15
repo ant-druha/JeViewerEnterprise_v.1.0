@@ -4,14 +4,15 @@
  */
 package jviewer.appserver;
 
-import java.io.IOException;
-import java.net.Socket;
-import javax.naming.Context;
-import javax.naming.InitialContext;
-import javax.naming.NamingException;
 import jviewer.ejb.ApplicationLocal;
 import jviewer.util.logging.Logging;
 import jviewer.util.net.ConnectionListener;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import java.io.IOException;
+import java.net.Socket;
 
 /**
  *

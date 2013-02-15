@@ -47,7 +47,6 @@
         <jarDirectory url="file://C:/Java/glassfish-3.1.2.2/glassfish/modules" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="JeViewerEnterpriseRemoteMod" />
     <orderEntry type="module" module-name="JeViewerEnterprise-ejb" />
     <orderEntry type="library" name="ojdbc6" level="project" />
   </component>

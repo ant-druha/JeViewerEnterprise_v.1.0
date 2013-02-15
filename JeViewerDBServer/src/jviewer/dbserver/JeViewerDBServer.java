@@ -4,11 +4,6 @@
  */
 package jviewer.dbserver;
 
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-import javax.naming.Context;
-import javax.naming.InitialContext;
-import javax.naming.NamingException;
 import jviewer.controller.orbHistory.HistoryExtended;
 import jviewer.controller.orbHistory.HistoryExtendedHelper;
 import jviewer.ejb.ApplicationRemote;
@@ -21,6 +16,12 @@ import org.omg.CosNaming.NamingContextExtHelper;
 import org.omg.PortableServer.LifespanPolicyValue;
 import org.omg.PortableServer.POA;
 import org.omg.PortableServer.POAHelper;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 /**
  *
