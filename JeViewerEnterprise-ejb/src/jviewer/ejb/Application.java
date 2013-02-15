@@ -4,19 +4,6 @@
  */
 package jviewer.ejb;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-import java.util.Iterator;
-import java.util.Properties;
-import java.util.Vector;
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
-import javax.ejb.Singleton;
-
 import com.sun.istack.internal.Nullable;
 import jviewer.appserver.ClientSession;
 import jviewer.appserver.ServerConnectionListener;
@@ -29,8 +16,18 @@ import org.omg.CORBA.ORB;
 import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+import javax.ejb.Singleton;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.net.InetAddress;
+import java.util.Iterator;
+import java.util.Properties;
+import java.util.Vector;
+
 /**
- *
  * @author Andrey
  */
 
@@ -55,7 +52,8 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
             // TODO: add file location parameter to application.xml
             File f1 = new File("C:\\Users\\Andrey\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
-            File f2 = new File("C:\\Users\\Andrey\\Documents\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
+            //File f2 = new File("C:\\Users\\Andrey\\Documents\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
+            File f2 = new File("C:\\Users\\Andrey.Dernov\\IdeaProjects\\JeViewerEnterprise_v.1.0\\JeViewerEnterprise.properties");
             //File proprsFile = new File(getClass().getResource("JeViewerEnterprise.properties").getPath());
             File proprsFile = f1.exists() ? f1 : f2;
 
@@ -67,8 +65,8 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             configProperties.setProperty("frontendHost", InetAddress.getLocalHost().getHostAddress());
 
             startServerListener();
-        }
-        catch (IOException e) {
+
+        } catch (IOException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         } finally {
             try {
@@ -118,7 +116,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
         try {
             serverListener.stopListen();
         } catch (IOException ex) {
-            log.error("Failed to stop server listener: "  + ex.getMessage(), ex);
+            log.error("Failed to stop server listener: " + ex.getMessage(), ex);
         }
     }
 
@@ -144,7 +142,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     @Override
     public boolean addClientSession(ClientSession session) {
         if (clientSessions.add(session)) {
-            log.info("New client session created. Current sessions: " + 
+            log.info("New client session created. Current sessions: " +
                     String.valueOf(ClientSession.getClientsOnline()));
             return true;
         }
@@ -195,7 +193,8 @@ public class Application implements ApplicationRemote, ApplicationLocal {
         }
         history.shutdown();
     }
-//  tocheck: how it works? :)
+
+    //  tocheck: how it works? :)
     @Nullable
     private HistoryExtended getHistoryExtendedRef() {
         try {

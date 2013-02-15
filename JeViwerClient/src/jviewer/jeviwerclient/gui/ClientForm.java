@@ -127,7 +127,7 @@ public class ClientForm extends ClientDesignForm implements ActionListener {
         } catch (MalformedURLException ex) {
             log.error(ex.getMessage());
         } catch (IOException ex) {
-            log.error(ex.getMessage());
+            log.error("Failed to connect to server: "+ ex.getMessage(), ex);
         }
     }
 
