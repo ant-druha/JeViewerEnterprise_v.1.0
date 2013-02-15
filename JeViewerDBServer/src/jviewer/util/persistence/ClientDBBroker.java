@@ -4,17 +4,6 @@
  */
 package jviewer.util.persistence;
 
-import java.sql.CallableStatement;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
-import java.sql.SQLException;
-import java.sql.Types;
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.HashMap;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
 import jviewer.objectdomain.Client;
 import jviewer.objectdomain.eClientInfo;
@@ -22,6 +11,13 @@ import jviewer.util.Holder;
 import jviewer.util.logging.Logging;
 import jviewer.util.utils;
 import org.omg.CORBA.StringHolder;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.Enumeration;
+import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *

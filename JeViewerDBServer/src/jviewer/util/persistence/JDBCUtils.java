@@ -4,15 +4,16 @@
  */
 package jviewer.util.persistence;
 
-import java.sql.Connection;
-import java.sql.SQLException;
+import jviewer.ejb.ApplicationRemote;
+import jviewer.util.logging.Logging;
+import oracle.jdbc.pool.OracleConnectionPoolDataSource;
+
 import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.sql.PooledConnection;
-import jviewer.ejb.ApplicationRemote;
-import jviewer.util.logging.Logging;
-import oracle.jdbc.pool.OracleConnectionPoolDataSource;
+import java.sql.Connection;
+import java.sql.SQLException;
 
 
 

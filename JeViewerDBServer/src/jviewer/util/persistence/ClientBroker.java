@@ -4,10 +4,11 @@
  */
 package jviewer.util.persistence;
 
-import java.util.Enumeration;
 import jviewer.controller.ClientBaseInterface;
 import jviewer.controller.orbHistory.HistoryOperations;
 import jviewer.objectdomain.Client;
+
+import java.util.Enumeration;
 
 /**
  *

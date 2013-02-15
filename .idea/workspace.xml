@@ -7,19 +7,32 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="536275f9-a1f5-4236-b58e-f5f480dd35c4" name="Default" comment="New brunch">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/AndreyCopyright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+    <list default="true" id="536275f9-a1f5-4236-b58e-f5f480dd35c4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/ApplicationLocal.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/ApplicationLocal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java" afterPath="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientBroker.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientBroker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientDBBroker.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientDBBroker.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java" afterPath="$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" afterPath="$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java" afterPath="$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/ClientItemsMap.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/ClientItemsMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/net/ConnectionListener.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/net/ConnectionListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-war/src/jviewer/web/Director.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-war/src/jviewer/web/Director.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/JDBCUtils.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/JDBCUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" afterPath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" afterPath="$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerConnectionListener.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerConnectionListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerDataReader.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerDataReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/net/SocketDataReaderThread.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/net/SocketDataReaderThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/utils.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/util/utils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JeViewerEnterprise_v.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360916156611" ignored="false" />
+    <file path="/Dummy.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360921865822" ignored="false" />
     <file path="$PROJECT_DIR$/JeViewerEnterprise-war/src/web/web/WEB-INF/web.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360448312647" ignored="false" />
     <file path="$USER_HOME$/Dropbox/IDEA_Projects/axiom_tasks/TestTask/src/axiomsl/testtask/eventqueue/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487493668" ignored="false" />
     <file path="/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487491381" ignored="false" />
@@ -28,7 +41,7 @@
     <file path="/index.jsp" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360825891428" ignored="false" />
     <file path="$PROJECT_DIR$/JeViewerEnterprise-war/web2/WEB-INF/web.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360502425030" ignored="false" />
     <file path="/Corba_transient_steps.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360503995970" ignored="false" />
-    <file path="/Application.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360760646192" ignored="false" />
+    <file path="/Application.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360954322903" ignored="false" />
     <file path="$PROJECT_DIR$/../JeViwerEE/IDEA/JeViwerClient/src/jviewer/jeviwerclient/JeViwerClient.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360602179210" ignored="false" />
     <file path="$PROJECT_DIR$/../JeViwerEE/IDEA/JeViwerClient/src/jviewer/jeviwerclient/JeViewerClient.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360602253573" ignored="false" />
     <file path="/ClientForm.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360745449195" ignored="false" />
@@ -42,6 +55,7 @@
     <file path="/a.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360761572816" ignored="false" />
     <file path="/a.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360780009510" ignored="false" />
     <file path="/a.dummy" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360829410716" ignored="false" />
+    <file path="/ApplicationRemote.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360951248003" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +63,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JeViewerEnterprise_v.1.0$JeViewerToEE.coverage" NAME="JeViewerToEE Coverage Results" MODIFIED="1360954375349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -57,7 +74,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java" line="134" class="jviewer.jeviwerclient.gui.ClientForm" package="jviewer.jeviwerclient.gui">
+      <breakpoint url="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java" line="131" class="jviewer.jeviwerclient.gui.ClientForm" package="jviewer.jeviwerclient.gui">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -116,28 +133,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="59" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="173" column="45" selection-start="5767" selection-end="5767" vertical-scroll-proportion="6.188437">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp">
+      <file leaf-file-name="ApplicationRemote.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerConnectionListener.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerConnectionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
+            <state line="24" column="11" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,29 +165,19 @@
       <file leaf-file-name="ClientForm.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="26" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0">
+            <state line="76" column="27" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Director.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/src/jviewer/web/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#3435#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientSession.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ClientSession.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ClientSession.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="402" column="39" selection-start="14396" selection-end="14396" vertical-scroll-proportion="0.55604076">
-              <folding />
+            <state line="38" column="19" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,16 +185,7 @@
       <file leaf-file-name="ClientFormListener.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="294" column="31" selection-start="11274" selection-end="11274" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_HistoryExtendedStub.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/controller/orbHistory/_HistoryExtendedStub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="17" selection-start="3302" selection-end="3302" vertical-scroll-proportion="0.0">
+            <state line="258" column="40" selection-start="9786" selection-end="9786" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -227,8 +218,10 @@
         <option value="$PROJECT_DIR$/JeViewerEnterprise-war/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" />
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/Corba_transient_steps.txt" />
-        <option value="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java" />
         <option value="$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java" />
+        <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ClientSession.java" />
+        <option value="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java" />
+        <option value="$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java" />
         <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
       </list>
     </option>
@@ -240,9 +233,12 @@
     <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="NamedScopeManager">
+    <scope name="MyEJB" pattern="src[JeViewerEnterprise-ejb]:jviewer.ejb..*||src[JeViewerEnterpriseRemoteMod]:jviewer.ejb..*" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="48" />
+    <option name="x" value="1290" />
+    <option name="y" value="24" />
     <option name="width" value="1208" />
     <option name="height" value="904" />
   </component>
@@ -259,7 +255,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>UNUSED_SYMBOL</id>
+            <id>UnusedDeclaration</id>
           </State>
         </selected-state>
       </profile-state>
@@ -373,18 +369,12 @@
               <option name="myItemId" value="jviewer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemId" value="jeviwerclient" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemId" value="gui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,11 +388,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemId" value="JeViwerClient" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,31 +476,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerDBServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemId" value="JeViewerEnterprise-ejb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JeViewerDBServer" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SQL" />
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appserver" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="MyEJB">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JeViewerEnterpriseRemoteMod">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JeViewerEnterpriseRemoteMod">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="jviewer/ejb">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JeViewerEnterprise-ejb">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="JeViewerEnterprise-ejb">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="jviewer/ejb">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -513,11 +552,12 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="options.lastSelected" value="project.scopes" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ideaIC/ideaIC-123.72" />
     <property name="project.structure.side.proportion" value="0.22148916" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FORWARD_ANALIZER" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -526,7 +566,7 @@
     <property name="options.splitter.details.proportions" value="0.4389952" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.JeViwerClient">
+  <component name="RunManager" selected="Glassfish Server.JeViewerToEE">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -696,9 +736,26 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel">
+        <option name="bootstrapPath" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="useBootstrapDefaults" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="9009" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="9009" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
+        <option name="USE_ENV_VARIABLES" value="false" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
           <option name="SCRIPT" value="" />
@@ -713,6 +770,36 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -817,42 +904,49 @@
       <created>1360595847827</created>
       <updated>1360595847827</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="minor stuff">
+      <created>1360921892250</created>
+      <updated>1360921892250</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="48" width="1208" height="904" extended-state="0" />
-    <editor active="true" />
+    <frame x="1290" y="24" width="1208" height="904" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32384825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32262382" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Dataflow from" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4200542" sideWeight="0.4971146" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32791328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2303665" sideWeight="0.67737615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41900936" sideWeight="0.4971146" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39176628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4200542" sideWeight="0.4971146" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32791328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3239625" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23090586" sideWeight="0.38911024" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2303665" sideWeight="0.5368139" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41965473" sideWeight="0.4971146" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.33065596" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.66934407" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Duplicates" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5595716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26909414" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32520324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5729585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Duplicates" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4631861" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -894,7 +988,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="New brunch" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor stuff" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -909,6 +1003,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Recreate structure" />
     <MESSAGE value="New brunch" />
+    <MESSAGE value="minor stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -918,31 +1013,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/drop_tables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/Corba_transient_steps.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.4122682" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="4" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ServerConnectionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
+        <state line="37" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -952,42 +1025,9 @@
         <state line="17" column="62" selection-start="180" selection-end="180" vertical-scroll-proportion="0.40589887" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/JeViwerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="26" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="12" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="59" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientDBBroker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="31" selection-start="11274" selection-end="11274" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1008,18 +1048,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/src/jviewer/web/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+        <state line="16" column="3" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#3435#0" expanded="false" />
+            <element signature="e#0#3436#0" expanded="false" />
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/JeViwerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/jeviwerclient/gui/ClientForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="27" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViwerClient/src/jviewer/controller/ClientFormListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="258" column="40" selection-start="9786" selection-end="9786" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/util/persistence/ClientDBBroker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="28" selection-start="3990" selection-end="3990" vertical-scroll-proportion="0.21207659">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/controller/ClientBaseInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="63" selection-start="588" selection-end="588" vertical-scroll-proportion="0.30857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="33" selection-start="2325" selection-end="2325" vertical-scroll-proportion="0.31441048">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/controller/orbHistory/HistoryExtendedOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="381" selection-end="381" vertical-scroll-proportion="0.2139738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/appserver/ClientSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="402" column="39" selection-start="14396" selection-end="14396" vertical-scroll-proportion="0.55604076">
-          <folding />
+        <state line="38" column="19" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="45" selection-start="5767" selection-end="5767" vertical-scroll-proportion="6.188437">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,10 +1137,10 @@
         <settings>
           <artifact-editor>
             <show-content>
-              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
               <type id="artifact" />
               <type id="library" />
-              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
             </show-content>
           </artifact-editor>
           <last-edited>JeViewerEnterprise-war</last-edited>
@@ -1097,12 +1204,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JeViewerEnterprise-war</last-edited>
+          <last-edited>JeViewerDBServer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.22148916" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1130,6 +1236,21 @@
               </list>
             </option>
           </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>MyEJB</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1934236" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="MyEJB" />
+          </order>
         </settings>
       </state>
     </states>

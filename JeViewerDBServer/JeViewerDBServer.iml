@@ -7,47 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Java/glassfish-3.1.2.2/glassfish/lib/gf-client.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Java/glassfish-3.1.2.2/glassfish/lib/appserv-rt.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Java/glassfish-3.1.2.2/glassfish/lib/javaee.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://C:/Java/glassfish-3.1.2.2/glassfish/modules" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://C:/Java/glassfish-3.1.2.2/glassfish/modules" />
-        </SOURCES>
-        <jarDirectory url="file://C:/Java/glassfish-3.1.2.2/glassfish/modules" recursive="false" />
-        <jarDirectory url="file://C:/Java/glassfish-3.1.2.2/glassfish/modules" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module" module-name="JeViewerEnterpriseRemoteMod" />
     <orderEntry type="module" module-name="JeViewerEnterprise-ejb" />
     <orderEntry type="library" name="ojdbc6" level="project" />
   </component>

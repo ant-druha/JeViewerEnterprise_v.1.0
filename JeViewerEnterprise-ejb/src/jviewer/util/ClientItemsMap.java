@@ -4,8 +4,9 @@
  */
 package jviewer.util;
 
-import java.util.HashMap;
 import jviewer.objectdomain.eClientInfo;
+
+import java.util.HashMap;
 
 /**
  *

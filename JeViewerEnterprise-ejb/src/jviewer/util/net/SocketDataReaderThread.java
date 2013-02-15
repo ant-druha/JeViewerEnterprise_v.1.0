@@ -4,12 +4,13 @@
  */
 package jviewer.util.net;
 
+import jviewer.util.logging.Logging;
+
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
-import jviewer.util.logging.Logging;
 
 /**
  *

@@ -4,13 +4,14 @@
  */
 package jviewer.controller;
 
-import java.io.BufferedReader;
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
+import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
+import jviewer.jeviwerclient.gui.ClientForm;
+import jviewer.objectdomain.eClientInfo;
+import jviewer.util.logging.Logging;
+import jviewer.util.utils;
+import org.omg.CORBA.StringHolder;
+
+import java.io.*;
 import java.net.Socket;
 import java.net.SocketException;
 import java.net.SocketTimeoutException;
@@ -19,12 +20,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.concurrent.locks.ReentrantLock;
-import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
-import jviewer.jeviwerclient.gui.ClientForm;
-import jviewer.objectdomain.eClientInfo;
-import jviewer.util.logging.Logging;
-import jviewer.util.utils;
-import org.omg.CORBA.StringHolder;
 
 /**
  *
@@ -253,7 +248,7 @@ public class ClientFormListener extends Thread {
                     + "|login=" + login + "|password=" + password
                     + "|LOGIN_REQUEST_END");
 
-            log.info("Awation answer from server ...");
+            log.info("Awaiting answer from server ...");
             while ((loginResult = br.readLine()) != null) {
                 String[] reqFields = splitServerRequest(loginResult);
 

@@ -12,8 +12,8 @@
  */
 package jviewer.ejb;
 
-import java.util.Properties;
 import javax.ejb.Remote;
+import java.util.Properties;
 
 /**
  *

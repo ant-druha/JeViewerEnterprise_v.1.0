@@ -13,6 +13,7 @@ import jviewer.util.config.ConfigProperties;
 import jviewer.util.logging.Logging;
 import jviewer.util.net.ConnectionListener;
 import org.omg.CORBA.ORB;
+import org.omg.CORBA.ORBPackage.InvalidName;
 import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
 
@@ -153,7 +154,12 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     public boolean removeClientSession(ClientSession session) {
 
         if (history == null) {
-            history = getHistoryExtendedRef();
+            try {
+                history = getHistoryExtendedRef();
+            } catch (Exception ex) {
+                log.error("Exception while obtaining ref to CORBA object \"HistoryExtended\": "
+                    + ex.getMessage(), ex);
+            }
         }
 
         try {
@@ -188,16 +194,16 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     }
 
     private void closeRemoteObjects() {
-        if (history == null) {
-            history = getHistoryExtendedRef();
+        if (history != null) {
+            history.shutdown();
+            //history = getHistoryExtendedRef();
         }
-        history.shutdown();
+
     }
 
     //  tocheck: how it works? :)
     @Nullable
-    private HistoryExtended getHistoryExtendedRef() {
-        try {
+    private HistoryExtended getHistoryExtendedRef() throws Exception {
             // Step 1: Instantiate the ORB
             String[] args = null;
             //args = {" -ORBInitialPort", " 1050", " -ORBInitialHost", " 192.168.0.50"};
@@ -215,10 +221,5 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             history = HistoryExtendedHelper.narrow(ncRef.resolve_str(name));
             log.info("Obtained a handle on server object: " + history);
             return history;
-        } catch (Exception ex) {
-            log.error("Exception while obtaining ref to CORBA object \"HistoryExtended\": "
-                    + ex.getMessage(), ex);
-        }
-        return null;
     }
 }

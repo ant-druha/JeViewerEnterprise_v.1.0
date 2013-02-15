@@ -4,21 +4,18 @@
  */
 package jviewer.jeviwerclient.gui;
 
-import java.awt.Color;
+import jviewer.controller.ClientFormListener;
+import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
+import jviewer.util.logging.Logging;
+import org.omg.CORBA.StringHolder;
+
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.net.MalformedURLException;
-import java.net.Socket;
-import java.net.SocketException;
-import java.net.URL;
-import java.net.URLConnection;
-import jviewer.controller.ClientFormListener;
-import jviewer.controller.orbHistory.HistoryExtendedPackage.ClientInfoHolder;
-import jviewer.util.logging.Logging;
-import org.omg.CORBA.StringHolder;
+import java.net.*;
 
 /**
  *

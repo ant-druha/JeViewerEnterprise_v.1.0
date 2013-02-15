@@ -4,10 +4,11 @@
  */
 package jviewer.util;
 
+import jviewer.objectdomain.eClientInfo;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import jviewer.objectdomain.eClientInfo;
 
 /**
  *

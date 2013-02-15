@@ -4,9 +4,10 @@
  */
 package jviewer.appserver;
 
+import jviewer.util.net.SocketDataReaderThread;
+
 import java.io.DataInputStream;
 import java.io.IOException;
-import jviewer.util.net.SocketDataReaderThread;
 
 /**
  *
