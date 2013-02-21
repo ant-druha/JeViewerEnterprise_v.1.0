@@ -11,7 +11,7 @@
     </list>
     <ignored path="JeViewerEnterprise_v.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1361460354519" ignored="false" />
+    <file path="/Dummy.txt" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1361460367029" ignored="false" />
     <file path="$PROJECT_DIR$/JeViewerEnterprise-war/src/web/web/WEB-INF/web.xml" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360448312647" ignored="false" />
     <file path="$USER_HOME$/Dropbox/IDEA_Projects/axiom_tasks/TestTask/src/axiomsl/testtask/eventqueue/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487493668" ignored="false" />
     <file path="/EventHandler.java" changelist="536275f9-a1f5-4236-b58e-f5f480dd35c4" time="1360487491381" ignored="false" />
@@ -1154,7 +1154,11 @@
       <created>1361460362504</created>
       <updated>1361460362504</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="minor stuff">
+      <created>1361460370373</created>
+      <updated>1361460370373</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
