@@ -78,6 +78,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
         }
     }
 
+
     @Override
     public Properties getConfigProperties() {
         return configProperties.getProperties();
