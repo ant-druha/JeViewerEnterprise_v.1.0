@@ -24,14 +24,13 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.InetAddress;
-import java.util.Iterator;
-import java.util.Properties;
-import java.util.Vector;
+import java.util.*;
 
 /**
  * @author Andrey
  */
 
+@SuppressWarnings("FeatureEnvy")
 @Singleton
 public class Application implements ApplicationRemote, ApplicationLocal {
 
@@ -41,10 +40,9 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     private static final Logging log = new Logging(Application.class);
     private ConnectionListener serverListener;
     // TODO: find another holder for session therads !
-    private Vector<ClientSession> clientSessions = new Vector<>();
+    private final Vector<ClientSession> clientSessions = new Vector<>();
     private HistoryExtended history = null;
     //endregion
-
     private void loadProperties() {
 
         FileReader fr = null;
@@ -52,7 +50,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             Properties props = new Properties();
 
             // TODO: add file location parameter to application.xml
-            File f1 = new File("C:\\Users\\Andrey\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
+            File f1 = new File("C:\\Users\\Andrey\\IdeaProjects\\JeViewerEnterprise_v.1.0\\JeViewerEnterprise.properties");
             //File f2 = new File("C:\\Users\\Andrey\\Documents\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
             File f2 = new File("C:\\Users\\Andrey.Dernov\\IdeaProjects\\JeViewerEnterprise_v.1.0\\JeViewerEnterprise.properties");
             //File proprsFile = new File(getClass().getResource("JeViewerEnterprise.properties").getPath());
@@ -60,6 +58,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
             fr = new FileReader(proprsFile);
 
+            //PropertyResourceBundle
             props.load(fr);
 
             configProperties = new ConfigProperties(props);
@@ -68,7 +67,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             startServerListener();
 
         } catch (IOException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            log.error("IO Exception while closing file" + e.getMessage());
         } finally {
             try {
                 fr.close();
@@ -83,6 +82,11 @@ public class Application implements ApplicationRemote, ApplicationLocal {
         return configProperties.getProperties();
     }
 
+    /**
+     *
+     * @param key
+     * @return
+     */
     @Override
     public String getConfigProperty(final String key) {
         return configProperties.getProperty(key);

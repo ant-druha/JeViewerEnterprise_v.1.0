@@ -35,10 +35,11 @@ public abstract class ConnectionListener extends Thread {
      * @param port - tcp port listener should listen to
      */
     public ConnectionListener(int port) {
-        this.port = port;
+        this(null,port);
     }
 
     public ConnectionListener(String bindAddress, int port) {
+        super(ConnectionListener.class.getName());
         this.bindAddress = bindAddress;
         this.port = port;
     }

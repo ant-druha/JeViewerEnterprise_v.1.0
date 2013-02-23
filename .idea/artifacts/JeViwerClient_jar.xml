@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JeViwerClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeViwerClient_jar</output-path>
+    <root id="archive" name="JeViwerClient.jar">
+      <element id="module-output" name="JeViwerClient" />
+      <element id="module-output" name="JeViewerEnterprise-ejb" />
+      <element id="module-output" name="JeViewerEnterpriseRemoteMod" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/annotations.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.annotation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.ejb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.jms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.persistence.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.resource.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.servlet.jsp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.servlet.jsp.jstl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.transaction.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

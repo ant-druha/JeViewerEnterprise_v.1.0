@@ -86,7 +86,7 @@ create or replace package body jviewer.ClientUtils is
         p_outMsg := 'Already logged in!';
         return 0;
       else
-        -- TODO: make a trigget to check no more than one online clients in sessions table !!!
+        -- TODO: make a trigger to check no more than one online clients in sessions table !!!
         insert into jviewer.sessions
           (employee_id, is_online, server_name, client_ip, application_id,
            app_version, app_info)

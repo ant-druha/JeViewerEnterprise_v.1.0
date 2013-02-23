@@ -21,6 +21,7 @@ import java.net.*;
  *
  * @author Andrey
  */
+@SuppressWarnings("FeatureEnvy")
 public class ClientForm extends ClientDesignForm implements ActionListener {
 
     private final Logging log = new Logging(ClientForm.class);
@@ -99,7 +100,7 @@ public class ClientForm extends ClientDesignForm implements ActionListener {
             URLConnection uConn = url.openConnection();
             uConn.connect();
             BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
-            String line = null;
+            String line;
             while ((line = br.readLine()) != null) {
 
                 if (line.startsWith("frontendHost")) {
@@ -137,11 +138,10 @@ public class ClientForm extends ClientDesignForm implements ActionListener {
 
     private void onGetHistory() {
         if (txtAreaHistory.isEditable()) {
-            String[] arrHistory = new String[1];
+            String[] arrHistory;
             arrHistory = formListener.getHistory(clientId);
-            for (int i = 0; i < arrHistory.length; i++) {
-                txtAreaHistory.append(arrHistory[i]+ "\n");
-            }
+            for (String anArrHistory : arrHistory)
+                txtAreaHistory.append(anArrHistory + "\n");
         }
     }
 

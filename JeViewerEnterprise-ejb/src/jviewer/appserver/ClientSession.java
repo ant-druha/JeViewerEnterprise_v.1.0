@@ -58,6 +58,7 @@ public class ClientSession extends Thread {
     //endregion
 
     public ClientSession(Socket clientSocket) {
+        super(ClientSession.class.getName() +"-"+clientSessionsCount);
         this.socket = clientSocket;
         clientInfoArr = new ClientInfoHolder();
         strResult = new StringHolder("Initial");

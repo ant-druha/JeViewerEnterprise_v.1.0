@@ -52,6 +52,7 @@ public class JeViewerDBServer {
 
     }
 
+    //region Unused Method
     private static void startupDbServer() {
         try {
 
@@ -106,6 +107,7 @@ public class JeViewerDBServer {
             log.error("Exception in Persistent Server Startup: " + e.getMessage(), e);
         }
     }
+    //endregion
 
     private static void startupDbServer2() {
         try {

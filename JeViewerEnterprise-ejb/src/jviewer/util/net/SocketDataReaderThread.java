@@ -34,7 +34,7 @@ public abstract class SocketDataReaderThread extends Thread {
     private long lastDisconnectTime;
 
     public SocketDataReaderThread(String host, int port) {
-
+        super(SocketDataReaderThread.class.getName());
         try {
             ip = InetAddress.getByName(host);
         } catch (UnknownHostException e) {

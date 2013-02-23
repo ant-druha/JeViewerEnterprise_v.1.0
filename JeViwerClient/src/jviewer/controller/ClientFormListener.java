@@ -28,6 +28,7 @@ import java.util.concurrent.locks.ReentrantLock;
 public class ClientFormListener extends Thread {
 
     private final Logging log = new Logging(ClientFormListener.class);
+    private static int ID = 0;
     private int clientId;
     private ClientForm clientForm;
     private Socket socket;
@@ -42,6 +43,7 @@ public class ClientFormListener extends Thread {
     }
     
     public ClientFormListener(Socket socket, ClientForm clientForm, int keepAliveInterval) {
+        super("ClientFormListener-" + ID++);
         this.socket = socket;
         this.clientForm = clientForm;
         lockForServerCall = new ReentrantLock();
