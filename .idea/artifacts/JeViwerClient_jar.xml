@@ -5,7 +5,10 @@
       <element id="module-output" name="JeViwerClient" />
       <element id="module-output" name="JeViewerEnterprise-ejb" />
       <element id="module-output" name="JeViewerEnterpriseRemoteMod" />
+<<<<<<< HEAD
       <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/annotations.jar" path-in-jar="/" />
+=======
+>>>>>>> origin/v1.1(localDB)
       <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.annotation.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.ejb.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libs/libEE/javax.jms.jar" path-in-jar="/" />
