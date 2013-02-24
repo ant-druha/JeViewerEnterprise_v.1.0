@@ -96,7 +96,7 @@ public class ClientDBBroker implements ClientBroker {
 
     @Override
     public boolean login(String login, String password, ClientInfoHolder clientInfoArr,
-            StringHolder strResult) {
+                         StringHolder strResult) {
         HashMap<eClientInfo, String> clientInfo;
         // "=" - hardcoded :(
         clientInfo = utils.toHashMap(clientInfoArr.value, "=");
