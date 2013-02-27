@@ -27,8 +27,6 @@ public class PersistentHistoryServant extends HistoryExtendedPOA {
     // но постоянного выделенного соединения у базы с апп. сервером нет.. 
     // и как тогда гарантировать консистентность статуса клиента в таблице sessions?? - 
     // видимо нужно тут session bean использовать этот объект один для всех
-    
-    
 
     public PersistentHistoryServant(ORB orb) {
         this.orb = orb;
