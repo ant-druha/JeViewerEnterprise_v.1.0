@@ -52,8 +52,9 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             // TODO: add file location parameter to application.xml
             File f1 = new File("C:\\Users\\Andrey\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
             File f2 = new File("C:\\Users\\Andrey\\Documents\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
+            File f3 = new File("/Users/andrey/Documents/IdeaProjects/Java/MyProjects/JeViewerEnterprise_v.1.0/JeViewerEnterprise.properties");
             //File proprsFile = new File(getClass().getResource("JeViewerEnterprise.properties").getPath());
-            File proprsFile = f1.exists() ? f1 : f2;
+            File proprsFile = f1.exists() ? f1 : f3.exists()? f3 : f2;
 
             fr = new FileReader(proprsFile);
 
