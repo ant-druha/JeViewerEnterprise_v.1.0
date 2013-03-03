@@ -13,7 +13,6 @@ import jviewer.util.config.ConfigProperties;
 import jviewer.util.logging.Logging;
 import jviewer.util.net.ConnectionListener;
 import org.omg.CORBA.ORB;
-import org.omg.CORBA.ORBPackage.InvalidName;
 import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
 
@@ -24,7 +23,9 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.InetAddress;
-import java.util.*;
+import java.util.Iterator;
+import java.util.Properties;
+import java.util.Vector;
 
 /**
  * @author Andrey
@@ -42,6 +43,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     // TODO: find another holder for session therads !
     private final Vector<ClientSession> clientSessions = new Vector<>();
     private HistoryExtended history = null;
+
     //endregion
     private void loadProperties() {
 
@@ -53,8 +55,9 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             File f1 = new File("C:\\Users\\Andrey\\IdeaProjects\\Java\\MyProjects\\JeViewerEnterprise_v.1.0\\JeViewerEnterprise.properties");
             //File f2 = new File("C:\\Users\\Andrey\\Documents\\Dropbox\\Edu\\4_term\\JavaLabs\\Curs\\JeViewerEnterprise\\JeViewerEnterprise.properties");
             File f2 = new File("C:\\Users\\Andrey.Dernov\\IdeaProjects\\JeViewerEnterprise_v.1.0\\JeViewerEnterprise.properties");
+            File f3 = new File("/Users/andrey/Documents/IdeaProjects/Java/MyProjects/JeViewerEnterprise_v.1.0/JeViewerEnterprise.properties");
             //File proprsFile = new File(getClass().getResource("JeViewerEnterprise.properties").getPath());
-            File proprsFile = f1.exists() ? f1 : f2;
+            File proprsFile = f1.exists() ? f1 : f3.exists() ? f3 : f2;
 
             fr = new FileReader(proprsFile);
 
@@ -84,7 +87,6 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     }
 
     /**
-     *
      * @param key
      * @return
      */
@@ -163,7 +165,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
                 history = getHistoryExtendedRef();
             } catch (Exception ex) {
                 log.error("Exception while obtaining ref to CORBA object \"HistoryExtended\": "
-                    + ex.getMessage(), ex);
+                        + ex.getMessage(), ex);
             }
         }
 
@@ -209,22 +211,22 @@ public class Application implements ApplicationRemote, ApplicationLocal {
     //  tocheck: how it works? :)
     @Nullable
     private HistoryExtended getHistoryExtendedRef() throws Exception {
-            // Step 1: Instantiate the ORB
-            String[] args = null;
-            //args = {" -ORBInitialPort", " 1050", " -ORBInitialHost", " 192.168.0.50"};
-            //Properties props = getConfigProperties();
-            ORB orb = ORB.init(args, configProperties.getProperties());
-            // get the root naming context
-            org.omg.CORBA.Object objRef =
-                    orb.resolve_initial_references("NameService");
-            // Use NamingContextExt instead of NamingContext. This is 
-            // part of the Interoperable naming Service.  
-            NamingContextExt ncRef = NamingContextExtHelper.narrow(objRef);
+        // Step 1: Instantiate the ORB
+        String[] args = null;
+        //args = {" -ORBInitialPort", " 1050", " -ORBInitialHost", " 192.168.0.50"};
+        //Properties props = getConfigProperties();
+        ORB orb = ORB.init(args, configProperties.getProperties());
+        // get the root naming context
+        org.omg.CORBA.Object objRef =
+                orb.resolve_initial_references("NameService");
+        // Use NamingContextExt instead of NamingContext. This is
+        // part of the Interoperable naming Service.
+        NamingContextExt ncRef = NamingContextExtHelper.narrow(objRef);
 
-            // resolve the Object Reference in Naming 
-            String name = "History";
-            history = HistoryExtendedHelper.narrow(ncRef.resolve_str(name));
-            log.info("Obtained a handle on server object: " + history);
-            return history;
+        // resolve the Object Reference in Naming
+        String name = "History";
+        history = HistoryExtendedHelper.narrow(ncRef.resolve_str(name));
+        log.info("Obtained a handle on server object: " + history);
+        return history;
     }
 }
