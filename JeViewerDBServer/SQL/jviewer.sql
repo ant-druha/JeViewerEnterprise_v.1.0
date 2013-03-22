@@ -1,8 +1,8 @@
-CREATE USER jviewer 
+CREATE USER jviewer
     IDENTIFIED BY jviewer
 	default tablespace USERS;
 
-ALTER USER jviewer QUOTA UNLIMITED ON users; 
+ALTER USER jviewer QUOTA UNLIMITED ON users;
 grant create session to jviewer;
 grant debug connect session to jviewer;
 

@@ -19,6 +19,8 @@ import java.util.Properties;
  *
  * @author Andrey
  */
+// syntax printing check
+// color printing uncheck
 @Remote
 public interface ApplicationRemote {
 

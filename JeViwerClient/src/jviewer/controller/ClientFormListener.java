@@ -77,12 +77,10 @@ public class ClientFormListener extends Thread {
 
     @Override
     public void run() {
-
         try {
             in = new DataInputStream(socket.getInputStream());
             out = new DataOutputStream(socket.getOutputStream());
             DataInputStream inTmp = new DataInputStream(socket.getInputStream());
-
             while (isConnected()) {
                 // пока форма не попросила нас сделать вызов на сервер 
                 // много ест CPU нужно его посылать поспать!
@@ -95,7 +93,6 @@ public class ClientFormListener extends Thread {
                 serverRequestStart();
                 keepAlive(in, out);
                 serverRequestEnd();
-
             }
             
         } catch (SocketException ex) {
