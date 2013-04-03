@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="39" />
+    <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="33" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="31" mnemonic="A" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1fdae5b6-bd72-4e82-8c3d-fb458390313c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/JeViwerClient.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/JeViwerClient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" afterPath="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" afterPath="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JeViewerEnterprise_v.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="javadb/" />
-    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364202230262" ignored="false" />
+    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364993228542" ignored="false" />
     <file path="$USER_HOME$/.IntelliJIdea/config/commandlinetools/Java_7_executable.xml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586702707" ignored="false" />
     <file path="/dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586722168" ignored="false" />
-    <file path="/fragment.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363965195652" ignored="false" />
-    <file path="/fragment.js2" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362595936499" ignored="false" />
+    <file path="/fragment.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364896022253" ignored="false" />
+    <file path="/fragment.js2" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364314643777" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/FlashAirTest/src/FlashAirTest.mxml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362595205170" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/FlashAirTest/src/views/HomeView.mxml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362595566105" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/FlashAirTest/src/views/HelloView.mxml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362595284434" ignored="false" />
@@ -19,10 +28,10 @@
     <file path="$PROJECT_DIR$/../../../Web/MyProjects/JavaScript_ipr/JavaScriptRemote_ipr/web/scripts/Info.json" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362659849023" ignored="false" />
     <file path="/Info.json" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362659848262" ignored="false" />
     <file path="/a.dummy" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363850092194" ignored="false" />
-    <file path="/a.html" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362994787766" ignored="false" />
-    <file path="/a.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362667022054" ignored="false" />
+    <file path="/a.html" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364310427427" ignored="false" />
+    <file path="/a.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364982912500" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Web/MyProjects/JavaScript_ipr/JavaScriptRemote_ipr/web/html/TrysheRem.html" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362667049356" ignored="false" />
-    <file path="/Application.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363596598213" ignored="false" />
+    <file path="/Application.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364305878190" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/ScalaScpecsTest/.idea/workspace.xml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363000007679" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/ScalaScpecsTest/src/HelloWorld.scala" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362999309490" ignored="false" />
     <file path="$PROJECT_DIR$/../_MySamples/ScalaTest/src/com/scalaapp/ScalaApp.scala" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363000299404" ignored="false" />
@@ -50,6 +59,12 @@
     <file path="$PROJECT_DIR$/../_MySamples/GrailsSample/grails-app/domain/grailssample/jviewerSessionsSeqEntity.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363965503235" ignored="false" />
     <file path="/hibernate.cfg.xml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363965835604" ignored="false" />
     <file path="/sessionFactory" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1363966234736" ignored="false" />
+    <file path="$PROJECT_DIR$/../_MySamples/HelloWorld/src/com/example/Foo.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364306757231" ignored="false" />
+    <file path="/Foo.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364306726573" ignored="false" />
+    <file path="/index.jsp" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364310329110" ignored="false" />
+    <file path="/a.jsp" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364311387845" ignored="false" />
+    <file path="/PersistentHistoryServant.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364370862770" ignored="false" />
+    <file path="/sample.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1364982919994" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +92,6 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -112,6 +126,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -124,16 +139,16 @@
       <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+            <state line="15" column="57" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="29" selection-start="3045" selection-end="3045" vertical-scroll-proportion="0.60903424">
+            <state line="118" column="29" selection-start="3874" selection-end="3874" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,10 +163,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Oracle Data Source Work" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://db-console:/cb18b65f/dbca86ed-0fa6-46d3-a08f-d27081a26f39/">
+      <file leaf-file-name="jviewer.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="50" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientLogic.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/ClientLogic.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="123" column="40" selection-start="4183" selection-end="4183" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JeViewerDBServer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="74" selection-start="937" selection-end="937" vertical-scroll-proportion="0.4538835">
               <folding />
             </state>
           </provider>
@@ -160,9 +193,27 @@
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="12" column="27" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="22" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -192,6 +243,9 @@
       <MyDateState />
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -200,10 +254,14 @@
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer.sql" />
         <option value="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java" />
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/Corba_transient_steps.txt" />
-        <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
         <option value="dbtable:/cb18b65f/7c0718ef-1ef3-40c6-94b5-15f4a846d83c/.JVIEWER.EMPLOYEES" />
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/PopulateTables.sql" />
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer_schema.ddl" />
+        <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
+        <option value="$PROJECT_DIR$/JeViewerEnterprise-war/web/testJSTL.tld" />
+        <option value="$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp" />
+        <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" />
+        <option value="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" />
       </list>
     </option>
   </component>
@@ -216,10 +274,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="48" />
-    <option name="width" value="1163" />
-    <option name="height" value="861" />
+    <option name="x" value="1318" />
+    <option name="y" value="40" />
+    <option name="width" value="1198" />
+    <option name="height" value="910" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -545,6 +603,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -573,7 +632,153 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise-war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="JeViewerDBServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerDBServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerDBServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerEnterprise_v.1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JeViewerDBServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jviewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dbserver" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -597,18 +802,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Background" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_MySamples/TestREST" />
     <property name="project.structure.side.proportion" value="0.2679803" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -622,7 +826,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.JeViewerDBServer">
+  <component name="RunManager" selected="Application.JeViwerClient">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -805,46 +1009,52 @@
       <created>1363972272645</created>
       <updated>1363972272645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="set up DB DDL DS">
+      <created>1364206189344</created>
+      <updated>1364206189344</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="48" width="1163" height="861" extended-state="0" />
+    <frame x="1318" y="40" width="1198" height="910" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4017094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40106243" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20072661" sideWeight="0.5982906" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39946738" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24977294" sideWeight="0.32621083" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24559858" sideWeight="0.26560426" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24977294" sideWeight="0.5982906" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3888889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24559858" sideWeight="0.3240372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3888889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.32984293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="454" y="431" width="694" height="417" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24977294" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29545453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2940341" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977304" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -947,14 +1157,64 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/drop_tables.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="376" column="14" selection-start="18269" selection-end="18269" vertical-scroll-proportion="0.49837133" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/ControllerHistory.idl">
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/Corba_transient_steps.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="495" selection-end="495" vertical-scroll-proportion="0.5496536" />
+        <state line="3" column="46" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cb18b65f/7c0718ef-1ef3-40c6-94b5-15f4a846d83c/.JVIEWER.EMPLOYEES">
+      <provider editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="748" selection-end="748" vertical-scroll-proportion="-8.793103" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/PopulateTables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="44" selection-end="44" vertical-scroll-proportion="0.02587519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="29" selection-start="3874" selection-end="3874" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/testJSTL.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise.properties">
@@ -964,76 +1224,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/src/jviewer/ejb/ApplicationRemote.java">
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="20" selection-start="648" selection-end="648" vertical-scroll-proportion="0.2603369" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/src/jviewer/web/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="40" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.02647975" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/drop_tables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="34" column="8" selection-start="1241" selection-end="1241" vertical-scroll-proportion="-0.0028860029">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-war/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/Corba_transient_steps.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="46" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cb18b65f/7c0718ef-1ef3-40c6-94b5-15f4a846d83c/.JVIEWER.EMPLOYEES">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="748" selection-end="748" vertical-scroll-proportion="-8.793103" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="50" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/ClientLogic.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="70" selection-start="102" selection-end="102" vertical-scroll-proportion="0.026397515">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/PopulateTables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="44" selection-end="44" vertical-scroll-proportion="0.02587519">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://db-console:/cb18b65f/dbca86ed-0fa6-46d3-a08f-d27081a26f39/">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="15" column="57" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1045,9 +1247,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/jviewer.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="29" selection-start="3045" selection-end="3045" vertical-scroll-proportion="0.60903424">
+        <state line="0" column="50" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/cb18b65f/dbca86ed-0fa6-46d3-a08f-d27081a26f39/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/SQL/ClientLogic.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="40" selection-start="4183" selection-end="4183" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="74" selection-start="937" selection-end="937" vertical-scroll-proportion="0.4538835">
           <folding />
         </state>
       </provider>
@@ -1062,7 +1285,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2679803" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1071,7 +1294,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>EJB</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1107,7 +1330,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|JeViwerClient</last-edited>
+          <last-edited>JeViewerEnterprise-ejb</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1135,7 +1358,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2679803" />
               </list>
             </option>
           </splitter-proportions>

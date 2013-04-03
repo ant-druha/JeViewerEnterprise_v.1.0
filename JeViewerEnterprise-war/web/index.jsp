@@ -5,7 +5,8 @@
     Author     : Andrey
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@page contentType="text/html" pageEncoding="UTF-8" %>
+<%@taglib prefix="c" tagdir="/WEB-INF/lib/jstl-1.2.jar" %>
 
 <!DOCTYPE html>
 <html>
@@ -24,6 +25,7 @@
 
         <jsp:forward page="director" />
 
-        
+
+
     </body>
 </html>

@@ -117,6 +117,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
         log.info("Shutting down remote objects ...");
         closeRemoteObjects();
+
     }
 
     private void stopServerListener() {
