@@ -73,6 +73,7 @@ public class ClientFormListener extends Thread {
 
     private void serverRequestStart() {
         lockForServerCall.lock();
+
     }
 
     @Override

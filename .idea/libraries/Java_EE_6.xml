@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Java EE 6">
+  <library name="Java_EE_6">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/libs/libEE/javax.annotation.jar!/" />
       <root url="jar://$PROJECT_DIR$/libs/libEE/javax.ejb.jar!/" />
