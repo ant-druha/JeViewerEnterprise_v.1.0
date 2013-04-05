@@ -10,10 +10,9 @@
  * Created with IntelliJ IDEA.
  * User: andrey
  * Date: 4/5/13
- * Time: 4:27 PM
+ * Time: 4:31 PM
  * To change this template use File | Settings | File Templates.
  */
-
-public class test {
-    int i;
+public class test2 {
+    int i = 0;
 }
