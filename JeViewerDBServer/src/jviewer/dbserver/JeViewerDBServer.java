@@ -33,6 +33,7 @@ public class JeViewerDBServer {
 
     private static ApplicationRemote application = null;
 
+
     private static String[] args;
 
     /**

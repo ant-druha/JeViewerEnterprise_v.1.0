@@ -10,7 +10,7 @@
     <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="31" mnemonic="A" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fdae5b6-bd72-4e82-8c3d-fb458390313c" name="Default" comment="test inspect">
+    <list default="true" id="1fdae5b6-bd72-4e82-8c3d-fb458390313c" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Andrey.Dernov\IdeaProjects\Java\MyProjects\JeViewerEnterprise_v.1.0\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" />
@@ -48,7 +48,7 @@
     <ignored path=".idea/dictionaries/Andrey_Dernov.xml" />
     <ignored path="patch_test.patch" />
     <ignored path="JeViewerEnterprise-war/web/WEB-INF/lib/jstl-1.2.jar" />
-    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365770098116" ignored="false" />
+    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365772129696" ignored="false" />
     <file path="$USER_HOME$/.IntelliJIdea/config/commandlinetools/Java_7_executable.xml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586702707" ignored="false" />
     <file path="/dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586722168" ignored="false" />
     <file path="/fragment.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365661899133" ignored="false" />
@@ -703,7 +703,11 @@
       <created>1365770036891</created>
       <updated>1365770036891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test inspect">
+      <created>1365772126014</created>
+      <updated>1365772126014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">

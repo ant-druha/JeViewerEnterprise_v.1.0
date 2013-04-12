@@ -61,6 +61,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
             fr = new FileReader(proprsFile);
 
+
             //PropertyResourceBundle
             props.load(fr);
 
