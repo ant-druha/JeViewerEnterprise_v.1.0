@@ -32,6 +32,7 @@ public class JeViewerDBServer {
     private static final Logging log = new Logging(JeViewerDBServer.class);
 
     private static ApplicationRemote application = null;
+
     private static String[] args;
 
     /**
