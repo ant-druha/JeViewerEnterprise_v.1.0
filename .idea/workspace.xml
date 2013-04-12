@@ -5,12 +5,12 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="40" />
+    <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="41" />
     <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="33" mnemonic="2" />
     <bookmark url="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" line="31" mnemonic="A" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fdae5b6-bd72-4e82-8c3d-fb458390313c" name="Default" comment="set up DB DDL DS">
+    <list default="true" id="1fdae5b6-bd72-4e82-8c3d-fb458390313c" name="Default" comment="test inspect">
       <change type="DELETED" beforePath="C:\Users\Andrey.Dernov\IdeaProjects\Java\MyProjects\JeViewerEnterprise_v.1.0\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" afterPath="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" />
@@ -48,7 +48,7 @@
     <ignored path=".idea/dictionaries/Andrey_Dernov.xml" />
     <ignored path="patch_test.patch" />
     <ignored path="JeViewerEnterprise-war/web/WEB-INF/lib/jstl-1.2.jar" />
-    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365769957467" ignored="false" />
+    <file path="/Dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365770098116" ignored="false" />
     <file path="$USER_HOME$/.IntelliJIdea/config/commandlinetools/Java_7_executable.xml" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586702707" ignored="false" />
     <file path="/dummy.txt" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1362586722168" ignored="false" />
     <file path="/fragment.java" changelist="1fdae5b6-bd72-4e82-8c3d-fb458390313c" time="1365661899133" ignored="false" />
@@ -167,10 +167,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Client.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="8" selection-start="630" selection-end="630" vertical-scroll-proportion="0.46363637">
+            <state line="23" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -229,10 +229,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JeViewerDBServer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="JeViewerDBServer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+            <state line="34" column="4" selection-start="997" selection-end="997" vertical-scroll-proportion="0.21451104">
               <folding />
             </state>
           </provider>
@@ -241,7 +241,7 @@
       <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="0" selection-start="2465" selection-end="2465" vertical-scroll-proportion="0.0">
+            <state line="63" column="0" selection-start="2466" selection-end="2466" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -292,8 +292,8 @@
         <option value="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/PersistentHistoryServant.java" />
         <option value="$PROJECT_DIR$/JeViewerDBServer/SQL/test.sql" />
         <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java" />
-        <option value="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" />
         <option value="$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java" />
+        <option value="$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java" />
       </list>
     </option>
   </component>
@@ -306,8 +306,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1332" />
-    <option name="y" value="63" />
+    <option name="x" value="1326" />
+    <option name="y" value="53" />
     <option name="width" value="1183" />
     <option name="height" value="786" />
   </component>
@@ -479,13 +479,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../_MySamples/JeViewerEnterprise_v.1.0/libs" />
     <property name="project.structure.side.proportion" value="0.2679803" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -699,11 +699,15 @@
       <created>1365769961841</created>
       <updated>1365769961841</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test inspect 2">
+      <created>1365770036891</created>
+      <updated>1365770036891</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1332" y="63" width="1183" height="786" extended-state="0" />
+    <frame x="1326" y="53" width="1183" height="786" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39872408" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
@@ -727,7 +731,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39946738" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2940341" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37958533" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24977294" sideWeight="0.32621083" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24799286" sideWeight="0.24242425" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -749,7 +753,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
       <value>
@@ -786,7 +790,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="test inspection" />
+    <option name="LAST_COMMIT_MESSAGE" value="test inspect" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -803,6 +807,8 @@
     <MESSAGE value="set up DB DS &amp; populate tables" />
     <MESSAGE value="set up DB DDL DS" />
     <MESSAGE value="test inspection" />
+    <MESSAGE value="test inspect 2" />
+    <MESSAGE value="test inspect" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -946,21 +952,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/ejb/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="0" selection-start="2465" selection-end="2465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+        <state line="63" column="0" selection-start="2466" selection-end="2466" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/src/jviewer/objectdomain/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="630" selection-end="630" vertical-scroll-proportion="0.46363637">
+        <state line="23" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeViewerDBServer/src/jviewer/dbserver/JeViewerDBServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="4" selection-start="997" selection-end="997" vertical-scroll-proportion="0.21451104">
           <folding />
         </state>
       </provider>
@@ -1025,6 +1031,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2679803" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
