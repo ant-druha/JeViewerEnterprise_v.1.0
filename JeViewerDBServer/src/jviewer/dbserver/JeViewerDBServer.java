@@ -30,16 +30,19 @@ import java.net.UnknownHostException;
 public class JeViewerDBServer {
 
     private static final Logging log = new Logging(JeViewerDBServer.class);
-
     private static ApplicationRemote application = null;
 
-
     private static String[] args;
+
+
+
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+
         //JeViewerDBServer.args = args;
         String[] ar = { "-ORBInitialPort", "1050", "-ORBInitialHost", "localhost" };
         JeViewerDBServer.args = ar;

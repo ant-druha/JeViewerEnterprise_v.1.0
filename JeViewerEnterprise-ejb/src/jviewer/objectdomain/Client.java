@@ -16,27 +16,13 @@ public class Client {
     private String first_name;
     private String last_name;
 
-
-    private String test;
-
-    private void test(String test) {
-        this.test = test;
-    }
-    
     public Client(int id, String login, String password, String first_name, String last_name) {
         this.id = id;                   // ? как хранить - брать только из базы и сразу создавать ?
         this.login = login;
         this.password = password;
         this.first_name = first_name;
-
-        test("fsdfsdfsd");
-        test("fsdfsdfsd");
-        test("fsdfsdfsd");
-
         this.last_name = last_name;
     }
-
-    
 
     public int getId() {
         return id;
