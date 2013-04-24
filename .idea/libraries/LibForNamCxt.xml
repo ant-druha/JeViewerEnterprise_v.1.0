@@ -1,16 +1,16 @@
 <component name="libraryTable">
   <library name="LibForNamCxt">
     <CLASSES>
-      <root url="jar://C:/glassfish3/glassfish/lib/gf-client.jar!/" />
-      <root url="jar://C:/glassfish3/glassfish/lib/javaee.jar!/" />
-      <root url="jar://C:/glassfish3/glassfish/lib/appserv-rt.jar!/" />
-      <root url="file://C:/glassfish3/glassfish/modules" />
+      <root url="jar://$GLASSFISH_HOME$/glassfish/lib/gf-client.jar!/" />
+      <root url="jar://$GLASSFISH_HOME$/glassfish/lib/javaee.jar!/" />
+      <root url="jar://$GLASSFISH_HOME$/glassfish/lib/appserv-rt.jar!/" />
+      <root url="file://$GLASSFISH_HOME$/glassfish/modules" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://C:/glassfish3/glassfish/modules" />
+      <root url="file://$GLASSFISH_HOME$/glassfish/modules" />
     </SOURCES>
-    <jarDirectory url="file://C:/glassfish3/glassfish/modules" recursive="false" />
-    <jarDirectory url="file://C:/glassfish3/glassfish/modules" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$GLASSFISH_HOME$/glassfish/modules" recursive="false" />
+    <jarDirectory url="file://$GLASSFISH_HOME$/glassfish/modules" recursive="false" type="SOURCES" />
   </library>
 </component>

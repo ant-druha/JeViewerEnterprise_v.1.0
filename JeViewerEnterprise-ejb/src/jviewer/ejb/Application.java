@@ -68,10 +68,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             configProperties = new ConfigProperties(props);
             configProperties.setProperty("frontendHost", InetAddress.getLocalHost().getHostAddress());
 
-
             startServerListener();
-
-
 
         } catch (IOException e) {
             log.error("IO Exception while closing file" + e.getMessage());
