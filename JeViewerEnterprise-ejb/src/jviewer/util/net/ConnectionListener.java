@@ -12,6 +12,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
 
+
 /**
  *
  * @author Andrey
@@ -101,7 +102,9 @@ public abstract class ConnectionListener extends Thread {
         isStop = true;
     }
 
+
     private boolean isStarted() {
         return socket != null;
     }
+    
 }
