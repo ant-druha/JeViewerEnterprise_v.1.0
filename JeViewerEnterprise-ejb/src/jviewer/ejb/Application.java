@@ -61,10 +61,12 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             props.load(fr);
 
             configProperties = new ConfigProperties(props);
+            configProperties = new ConfigProperties(props);
             configProperties.setProperty("frontendHost", InetAddress.getLocalHost().getHostAddress());
             
             
             
+
 
             startServerListener();
             
