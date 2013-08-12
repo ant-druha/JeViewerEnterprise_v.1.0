@@ -62,8 +62,13 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
             configProperties = new ConfigProperties(props);
             configProperties.setProperty("frontendHost", InetAddress.getLocalHost().getHostAddress());
+            
+            
+            
 
             startServerListener();
+            
+            
         }
         catch (IOException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
@@ -91,6 +96,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
      */
     @PostConstruct
     private void init() {
+
 
         loadProperties();
 
