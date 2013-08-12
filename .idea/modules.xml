@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" filepath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/JeViewerEnterpriseRemoteMod.iml" filepath="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/JeViewerEnterpriseRemoteMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" filepath="$PROJECT_DIR$/JeViewerDBServer/JeViewerDBServer.iml" group="Persistence" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-ejb/JeViewerEnterprise-ejb.iml" group="AppServer" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise-war/JeViewerEnterprise-war.iml" group="AppServer" />
+      <module fileurl="file://$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/JeViewerEnterpriseRemoteMod.iml" filepath="$PROJECT_DIR$/JeViewerEnterpriseRemoteMod/JeViewerEnterpriseRemoteMod.iml" group="AppServer" />
       <module fileurl="file://$PROJECT_DIR$/JeViewerEnterprise_v.1.0.iml" filepath="$PROJECT_DIR$/JeViewerEnterprise_v.1.0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" filepath="$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" filepath="$PROJECT_DIR$/JeViwerClient/JeViwerClient.iml" group="Client" />
     </modules>
   </component>
 </project>
