@@ -34,6 +34,7 @@ public class ClientItemsMap {
     }
     
     public static String get(eClientInfo key) {
-        return clientInfo.get(key);
+        String str = clientInfo.get(key);
+        return str;
     }
 }

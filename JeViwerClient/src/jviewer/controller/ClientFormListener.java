@@ -22,7 +22,6 @@ import java.util.HashMap;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- *
  * @author Andrey
  */
 public class ClientFormListener extends Thread {
@@ -41,7 +40,7 @@ public class ClientFormListener extends Thread {
     public ClientFormListener(Socket socket, ClientForm clientForm) {
         this(socket, clientForm, 5000);
     }
-    
+
     public ClientFormListener(Socket socket, ClientForm clientForm, int keepAliveInterval) {
         super("ClientFormListener-" + ID++);
         this.socket = socket;
@@ -95,7 +94,7 @@ public class ClientFormListener extends Thread {
                 keepAlive(in, out);
                 serverRequestEnd();
             }
-            
+
         } catch (SocketException ex) {
             log.error("Exception occurred while working with server's socket. Remote server port: "
                     + socket.getPort() + ". "
@@ -228,7 +227,7 @@ public class ClientFormListener extends Thread {
 
     // TODO: вынести все параметры в класс, а не таскать во все методы
     private boolean sendLoginRequest(String login, String password,
-            ClientInfoHolder clientInfo, StringHolder strResult) {
+                                     ClientInfoHolder clientInfo, StringHolder strResult) {
         try {
 
             PrintWriter pw = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()), true);
@@ -280,6 +279,7 @@ public class ClientFormListener extends Thread {
     private void readFromSocket(DataInputStream in) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String inStr;
+
         log.info("perform reading from socket");
         while ((inStr = br.readLine()) != null) {
             log.info("(readFromSocket method) Got string from server in : " + inStr);
@@ -371,13 +371,14 @@ public class ClientFormListener extends Thread {
             }
 
         } catch (IOException ex) {
-                log.error("I/O error while working with server ..." + ex.getMessage(), ex);
+            log.error("I/O error while working with server ..." + ex.getMessage(), ex);
             try {
                 close();
             } catch (IOException ex1) {
                 log.error(ex1);
             }
-                clientForm.setConnected(false);
-        }  
+            clientForm.setConnected(false);
+        }
+
     }
 }

@@ -16,6 +16,9 @@ public class Client {
     private String first_name;
     private String last_name;
 
+
+
+
     public Client(int id, String login, String password, String first_name, String last_name) {
         this.id = id;                   // ? как хранить - брать только из базы и сразу создавать ?
         this.login = login;
@@ -23,6 +26,8 @@ public class Client {
         this.first_name = first_name;
         this.last_name = last_name;
     }
+
+    
 
     public int getId() {
         return id;
@@ -59,8 +64,4 @@ public class Client {
     public void setLast_name(String last_name) {
         this.last_name = last_name;
     }
-
-    
-    
-    
 }
