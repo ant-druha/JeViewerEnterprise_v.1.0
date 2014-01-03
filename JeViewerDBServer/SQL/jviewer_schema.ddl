@@ -4,7 +4,7 @@ CREATE USER jviewer
 
 ALTER USER jviewer QUOTA UNLIMITED ON users;
 grant create session to jviewer;
-grant debug connect session to jviewer;
+-- grant debug connect session to jviewer;
 
 -- Create table employees
 create table JVIEWER.employees

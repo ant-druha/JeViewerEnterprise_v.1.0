@@ -32,6 +32,7 @@ public class PersistentHistoryServant extends HistoryExtendedPOA {
         this.orb = orb;
         clientDbBroker = new ClientDBBroker();
         log.info("PersistentHistoryServant instance ir ready to serve connections");
+
     }
 
 

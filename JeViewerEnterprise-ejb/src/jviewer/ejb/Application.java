@@ -60,6 +60,8 @@ public class Application implements ApplicationRemote, ApplicationLocal {
             File proprsFile = f1.exists() ? f1 : f3.exists() ? f3 : f2;
 
             fr = new FileReader(proprsFile);
+
+
             //PropertyResourceBundle
             props.load(fr);
 
@@ -117,6 +119,7 @@ public class Application implements ApplicationRemote, ApplicationLocal {
 
         log.info("Shutting down remote objects ...");
         closeRemoteObjects();
+
     }
 
     private void stopServerListener() {
