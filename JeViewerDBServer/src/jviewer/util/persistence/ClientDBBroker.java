@@ -211,7 +211,7 @@ public class ClientDBBroker implements ClientBroker {
             
             String[] resArr = new String[strArr.size()];
             strArr.toArray(resArr);
-            log.info("Returing following info to client: \n");
+            log.info("Returning following info to client: \n");
             for (String str : strArr) {
                 log.info(str);
             }
